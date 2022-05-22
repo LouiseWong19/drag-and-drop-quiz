@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/drag-and-drop-quiz/static/css/main.01a92a1d.css",
-    "main.js": "/drag-and-drop-quiz/static/js/main.3421bec2.js",
+    "main.css": "/drag-and-drop-quiz/static/css/main.e2d1d55f.css",
+    "main.js": "/drag-and-drop-quiz/static/js/main.17dd72e6.js",
     "static/js/787.d2363613.chunk.js": "/drag-and-drop-quiz/static/js/787.d2363613.chunk.js",
+    "static/media/cow.jpg": "/drag-and-drop-quiz/static/media/cow.19f755b66b74b9e548f5.jpg",
     "index.html": "/drag-and-drop-quiz/index.html",
-    "main.01a92a1d.css.map": "/drag-and-drop-quiz/static/css/main.01a92a1d.css.map",
-    "main.3421bec2.js.map": "/drag-and-drop-quiz/static/js/main.3421bec2.js.map",
+    "main.e2d1d55f.css.map": "/drag-and-drop-quiz/static/css/main.e2d1d55f.css.map",
+    "main.17dd72e6.js.map": "/drag-and-drop-quiz/static/js/main.17dd72e6.js.map",
     "787.d2363613.chunk.js.map": "/drag-and-drop-quiz/static/js/787.d2363613.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01a92a1d.css",
-    "static/js/main.3421bec2.js"
+    "static/css/main.e2d1d55f.css",
+    "static/js/main.17dd72e6.js"
   ]
 }
