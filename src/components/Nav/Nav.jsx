@@ -3,7 +3,7 @@ import "./Nav.scss"
 
 const Nav = () => {
   return (
-    <nav className='Nav'>
+    <nav className='nav'>
       <h1>Cow Organ Quiz</h1>
     </nav>
   )
